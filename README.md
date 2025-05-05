@@ -1,5 +1,5 @@
 # example-repo
-This repository is created for WADL 2A
+This repository is created for WAD
 
 
 **Prajyot Deshpande
